@@ -1,0 +1,3 @@
+module TarantulaFeeder {
+	requires junit;
+}
